@@ -1,0 +1,17 @@
+风控数据分析例子
+https://www.zhihu.com/search?type=content&q=%E9%A3%8E%E6%8E%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%20%20git
+
+项目限定：贷款数据分析
+
+0.项目源
+1.数据源
+Lending Club -- Kaggle
+LoanDate  --Kaggle
+2.导入数据库
+3.提出分析问题，进行分析
+4.可能的话进行建模
+
+项目获取渠道：
+贷款从业人员一定要学会的数据分析
+购买相应书籍
+
